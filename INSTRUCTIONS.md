@@ -30,20 +30,21 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
+<img width="567" height="409" alt="Captura de pantalla 2026-01-21 101153" src="https://github.com/user-attachments/assets/21ae857c-2f93-488e-95e1-592e83d21fa0" />
+<img width="803" height="495" alt="Captura de pantalla 2026-01-21 101214" src="https://github.com/user-attachments/assets/fcb3641f-56f3-4b0a-af23-5a6a7da90e6a" />
+
 
 ---
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
+<img width="800" height="585" alt="12  Ariketa" src="https://github.com/user-attachments/assets/10a67a05-47be-4dd3-9a39-98254ec95dbc" />
 
-*(Añade aquí la captura del WaveDrom)*
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+<img width="781" height="538" alt="11 Ariketa" src="https://github.com/user-attachments/assets/0ecb6a15-e3a0-40dd-ab8d-48158e7a1d06" />
 
-... AÑADE LO MÁS CIRCUITOS
 
 ---
 
