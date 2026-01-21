@@ -6,22 +6,14 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
-| Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| JK | 7476, 4027             | <img width="119" height="97" alt="Captura de pantalla 2026-01-21 100734" src="https://github.com/user-attachments/assets/797dfc4b-ab53-4531-b0ce-f5563bc84173" /><img width="102" height="91" alt="Captura de pantalla 2026-01-21 100726" src="https://github.com/user-attachments/assets/33b6094c-2d9b-41e3-b875-2d539bb26be8" /> | JK zirkuitu sekuentziala memoria-elementu bat da, erloju-pultsu bakoitzean bere irteera sarreren arabera mantendu, aldatu edo txandakatzen duena. |  
 
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
+
 
 ---
 
@@ -38,34 +30,62 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
+<img width="567" height="409" alt="Captura de pantalla 2026-01-21 101153" src="https://github.com/user-attachments/assets/21ae857c-2f93-488e-95e1-592e83d21fa0" />
+<img width="803" height="495" alt="Captura de pantalla 2026-01-21 101214" src="https://github.com/user-attachments/assets/fcb3641f-56f3-4b0a-af23-5a6a7da90e6a" />
+
 
 ---
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
+<img width="800" height="585" alt="12  Ariketa" src="https://github.com/user-attachments/assets/10a67a05-47be-4dd3-9a39-98254ec95dbc" />
 
-*(Añade aquí la captura del WaveDrom)*
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+<img width="781" height="538" alt="11 Ariketa" src="https://github.com/user-attachments/assets/0ecb6a15-e3a0-40dd-ab8d-48158e7a1d06" />
 
-... AÑADE LO MÁS CIRCUITOS
 
 ---
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
-Circuito A
+1. Ariketa
 
-*(Añade aquí el código del WaveDrom)*
+{signal: [
 
-Circuito B
+  {name: 'clk', period:2, wave: 'P........'},
 
-*(Añade aquí el código del WaveDrom)*
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '01.0.1.010.10'},
+  
+  {name: '-Q', wave: '10.1.0.101.01'}
+  
+]}
 
-... AÑADE LO MÁS CIRCUITOS
+2. Ariketa
+
+   {signal: [
+   
+  {name: 'clk',period:2, wave: 'N........'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '10.1.0.101.01'},
+  
+  {name: '-Q', wave: '01.0.1.010.10'}
+  
+]}
+
 
 ---
 
