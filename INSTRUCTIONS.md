@@ -11,8 +11,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| JK | 7476, 4027             | <img width="119" height="97" alt="Captura de pantalla 2026-01-21 100734" src="https://github.com/user-attachments/assets/797dfc4b-ab53-4531-b0ce-f5563bc84173" /><img width="102" height="91" alt="Captura de pantalla 2026-01-21 100726" src="https://github.com/user-attachments/assets/33b6094c-2d9b-41e3-b875-2d539bb26be8" />
- | JK zirkuitu sekuentziala memoria-elementu bat da, erloju-pultsu bakoitzean bere irteera sarreren arabera mantendu, aldatu edo txandakatzen duena. |  
+| JK | 7476, 4027             | <img width="119" height="97" alt="Captura de pantalla 2026-01-21 100734" src="https://github.com/user-attachments/assets/797dfc4b-ab53-4531-b0ce-f5563bc84173" /><img width="102" height="91" alt="Captura de pantalla 2026-01-21 100726" src="https://github.com/user-attachments/assets/33b6094c-2d9b-41e3-b875-2d539bb26be8" /> | JK zirkuitu sekuentziala memoria-elementu bat da, erloju-pultsu bakoitzean bere irteera sarreren arabera mantendu, aldatu edo txandakatzen duena. |  
 
 
 
