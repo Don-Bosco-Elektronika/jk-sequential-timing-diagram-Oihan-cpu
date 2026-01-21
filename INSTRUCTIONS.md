@@ -50,15 +50,42 @@ Circuito B
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
-Circuito A
+1. Ariketa
 
-*(Añade aquí el código del WaveDrom)*
+{signal: [
 
-Circuito B
+  {name: 'clk', period:2, wave: 'P........'},
 
-*(Añade aquí el código del WaveDrom)*
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '01.0.1.010.10'},
+  
+  {name: '-Q', wave: '10.1.0.101.01'}
+  
+]}
 
-... AÑADE LO MÁS CIRCUITOS
+2. Ariketa
+
+   {signal: [
+   
+  {name: 'clk',period:2, wave: 'N........'},
+  
+  {name: 'J', wave: '0101..0101.0..1.0'},
+  
+  {name: 'K', wave: '1...0..1.0..1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '10.1.0.101.01'},
+  
+  {name: '-Q', wave: '01.0.1.010.10'}
+  
+]}
+
 
 ---
 
